@@ -11,7 +11,9 @@
 
 - 주요 일정
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87fa908d-edee-4d4e-a067-ece5ee850ea4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87fa908d-edee-4d4e-a067-ece5ee850ea4/Untitled.png)
+![공모전 주요일정](https://github.com/dnwls6314/Samsung-card_NLP-competition/blob/main/image/%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%A3%BC%EC%9A%94%EC%9D%BC%EC%A0%95.png)
+
+
 
 # 사용 모델
 
@@ -33,7 +35,7 @@
 
 **Bert 대신 KcELECTRA를 쓰는 이유** 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1299d1a5-2f85-42cc-8211-a278eb49c5dc/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1299d1a5-2f85-42cc-8211-a278eb49c5dc/Untitled.png)
+![NLP 모델 성능 비교](https://github.com/dnwls6314/Samsung-card_NLP-competition/blob/main/image/NLP%20%EC%84%B1%EB%8A%A5%EB%B9%84%EA%B5%90.png)
 
 표1 한국어 텍스트 데이터에 대한 transformer NLP 모델 성능 비교 
 
